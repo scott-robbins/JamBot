@@ -48,7 +48,7 @@ async def on_message(message):
 			return
 		else:
 			f = await a.read(use_cached=False)	
-			print('processing %s' % fname)
+			print('%s is uploading %s' % (message.author, fname))
 			open(os.getcwd()+'/LocalData/Music/'+fname,'wb').write(f)
 			await member.dm_channel.send('Thanks! Now join a voice channel, and send me the play command.')
 			return 
