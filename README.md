@@ -24,11 +24,16 @@ Then after you've joined a voice channel, which the bot has permission to be in,
 
 # TODO: 
 This is brand new and actively under development so I'm still working on features and improving functionality. 
-	- Start/Stop/
-	- Queue
-	- Skip
-	- Delete Song from Library
-	- Search by Artist
+	
+	* Start/Stop/
+	
+	* Queue
+	
+	* Skip
+	
+	* Delete Song from Library
+	
+	* Search by Artist
 
 ============================= *Last Updated - October 2020* ==============================
 
