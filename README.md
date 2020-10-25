@@ -15,8 +15,11 @@ connect your own server.
 
 # How to use it 
 Once you have an instance of JamBot running in your server, you give it music in a DM via an attachment.
+
 ![upload](https://raw.githubusercontent.com/scott-robbins/JamBot/main/upload.png)
+
 Then after you've joined a voice channel, which the bot has permission to be in, use the ```$play``` command to have the bot connect to the voice channel and start playing the song you specified.
+
 ![usage](https://raw.githubusercontent.com/scott-robbins/JamBot/main/usage.png)
 
 # TODO: 
